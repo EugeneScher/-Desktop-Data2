@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data</string>
+    <string name="Application">Напоминалка</string>
+    <string name="App">Имя пользователя:</string>
+    <string name="app">Пароль:</string>
+    <string name="appl">Войти</string>
+    <string name="Res">Оповещение Риеэлтора</string>
+</resources>
